@@ -2,7 +2,7 @@
 
 Use this template to create an installable Joomla template. 
 
-If you want to install your template, then you can zip your Joomla module folder and install it through the installer in the administration section of Joomla.
+If you want to install your template, then you can zip your Joomla module folder (which is also this repository) and install it through the installer in the administration section of Joomla.
 
 # STEPS todo to adjust your Joomla module
 
@@ -16,4 +16,4 @@ If you want to install your template, then you can zip your Joomla module folder
 
 5. Add your PHP or/and Javascript code to the file default.php.
 
-You can also use additional files, which have to be added always to the <files> section in the file mod_moduletemplate.xml.
+You can also use additional files, which have to be added always to the \<files\> section in the file mod_moduletemplate.xml.
